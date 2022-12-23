@@ -5,4 +5,8 @@ public class HomePage {
     // setting up home page
 
     // na
+
+    // more things
+
+    // logo
 }
